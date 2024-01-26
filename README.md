@@ -4,6 +4,8 @@ When the proximity sensor is initialized, any motion detected  (must be less tha
 
 This project was written and compiled using the Arduino IDE. You must include both license and header files as well as the arduino ino file, which contains the program code.
 
+Demo Link: https://csusm-my.sharepoint.com/:v:/g/personal/thorn073_csusm_edu/Eftnv4vh5QBNjxU8kpNcND4BpKwQgwxHyXr-9YPJFP3sHA?e=BKfj2l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 Works Cited
 
 The Arduino Team. “Blink without Delay.” Arduino, 2018, www.arduino.cc/en/Tutorial/BuiltInExamples/BlinkWithoutDelay. 
