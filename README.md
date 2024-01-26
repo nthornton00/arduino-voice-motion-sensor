@@ -7,5 +7,7 @@ This project was written and compiled using the Arduino IDE. You must include bo
 Works Cited
 
 The Arduino Team. “Blink without Delay.” Arduino, 2018, www.arduino.cc/en/Tutorial/BuiltInExamples/BlinkWithoutDelay. 
+
 Marquínez, Pablo. “Voice Commands with the Arduino Speech Recognition Engine.” Arduino Documentation, 2023, docs.arduino.cc/tutorials/nano-33-ble-sense/speech-recognition-engine. 
+
 Will Work For Liberty. “How to Blink an LED with an Arduino Nano.” YouTube, 29 Jan. 2017, www.youtube.com/watch?v=dRAAIrpI1hg. 
